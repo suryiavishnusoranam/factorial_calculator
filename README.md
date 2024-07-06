@@ -4,7 +4,7 @@ This software project serves as a comprehensive demonstration of Erlang's capabi
 
 My purpose to work on this project is to deepen my understanding of Erlang programming language and its functional programming paradigm. By implementing various algorithms and exploring Erlang's unique features, I aim to enhance my proficiency in using Erlang for practical software development.
    
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/WnWrFSqWyMY)
 
 # Development Environment
 
