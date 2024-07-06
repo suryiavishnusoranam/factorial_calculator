@@ -1,30 +1,25 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This software project serves as a comprehensive demonstration of Erlang's capabilities in functional programming. It includes implementations of fundamental algorithms and showcases Erlang's syntax features such as recursion, pattern matching, and list operations. Through practical examples and tests, this project aims to illustrate effective use of Erlang for solving common programming challenges.
 
-{Provide a description for the software that you wrote to demonstrate the Erlang language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
+My purpose to work on this project is to deepen my understanding of Erlang programming language and its functional programming paradigm. By implementing various algorithms and exploring Erlang's unique features, I aim to enhance my proficiency in using Erlang for practical software development.
+   
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* VSCode: Used as the primary integrated development environment (IDE) for editing Erlang code. It provides syntax highlighting, integrated terminal, and Git integration.
 
-{Describe the programming language that you used and any libraries.}
+* Erlang OTP: Used as the runtime environment for executing Erlang code. It includes the Erlang/OTP libraries and tools necessary for Erlang development.
+
+* Erlang: A functional programming language known for its concurrency and fault-tolerance features. Erlang's syntax and features, such as pattern matching, recursion, and message passing, were extensively utilized in this project.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Erlang Reference](https://www.erlang.org/doc/apps/stdlib/api-reference.html)
+* [Erlang Tutorials](https://www.tutorialspoint.com/erlang/index.htm)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Optimize recursive algorithms for better performance, focusing on efficiency in computational tasks.
+* Explore integration with external libraries or APIs to extend the capabilities of the application
